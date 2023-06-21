@@ -1,0 +1,26 @@
+.header__div{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    
+}
+.logo{
+    height: 5px;
+    border: 0px;
+
+}
+.search{
+    display: flex;
+    margin-left:5px;
+    margin-top: 30px;
+   
+    align-items: center;
+    border-radius: 3px;
+    
+}
+.hr{
+    color: blue;
+    height: 3px;
+    width: 100%;
+    margin-top: 30px;
+}
